@@ -1,0 +1,4 @@
+open Printf
+let add x = x + x;;
+printf "%d\n" (add 3);;
+(* let () = print_endline "Hello, World!" *)
